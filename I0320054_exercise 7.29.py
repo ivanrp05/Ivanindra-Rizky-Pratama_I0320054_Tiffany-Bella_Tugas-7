@@ -1,0 +1,13 @@
+print("Praktikum Programa Komputer ")
+print("Exercise 7.29")
+print("")
+print("===========================")
+print("Nama : Ivanindra Rizky P")
+print("NIM : I0320054")
+print("")
+print("===========================")
+print("")
+a = [10, 40, 30, 10, 30, 20]
+print('a: ', a)
+print('jumlah nilai 10=', a.count(10))
+print('jumlh nilai 30', a.count(30))

@@ -1,0 +1,15 @@
+print("Praktikum Programa Komputer ")
+print("Exercise 7.28")
+print("")
+print("===========================")
+print("Nama : Ivanindra Rizky P")
+print("NIM : I0320054")
+print("")
+print("===========================")
+print("")
+a = [10, 20, 30]
+print('a: ', a)
+# sesudah ditambah
+a.append(50)
+a.append(60)
+print('a sesudah ditambah: ', a)

@@ -1,0 +1,13 @@
+print("Praktikum Programa Komputer ")
+print("Exercise 7.11")
+print("")
+print("===========================")
+print("Nama : Ivanindra Rizky P")
+print("NIM : I0320054")
+print("")
+print("===========================")
+print("")
+str = 'Hello world'
+print('str :' + str)
+print('str find o = ', str.find('o'))
+print('str find l = ', str.find('l'))

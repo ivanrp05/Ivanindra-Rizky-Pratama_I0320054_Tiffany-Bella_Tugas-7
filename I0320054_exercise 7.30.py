@@ -1,0 +1,13 @@
+print("Praktikum Programa Komputer ")
+print("Exercise 7.30")
+print("")
+print("===========================")
+print("Nama : Ivanindra Rizky P")
+print("NIM : I0320054")
+print("")
+print("===========================")
+print("")
+a = [10, 40, 30, 50, 70, 30]
+print('a: ', a)
+print('index (30)= ', a.index(30))
+print('index (70)= ', a.index(70))

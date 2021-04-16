@@ -1,0 +1,13 @@
+print("Praktikum Programa Komputer ")
+print("Exercise 7.36")
+print("")
+print("===========================")
+print("Nama : Ivanindra Rizky P")
+print("NIM : I0320054")
+print("")
+print("===========================")
+print("")
+a = [10, 40, 30, 10, 70, 40]
+b = sorted(a)
+print('a: ', a)
+print('b: ', b)

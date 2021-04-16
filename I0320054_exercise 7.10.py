@@ -1,0 +1,12 @@
+print("Praktikum Programa Komputer ")
+print("Exercise 7.10")
+print("")
+print("===========================")
+print("Nama : Ivanindra Rizky P")
+print("NIM : I0320054")
+print("")
+print("===========================")
+print("")
+str = 'Hello world'
+print(str.endswith('world'))
+print(str.endswith('world!'))
